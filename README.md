@@ -7,7 +7,7 @@
 
 ### Course content
 
-This is a 3.5 hour workshop on programmatic smart contract security. It describes how to use a static analyzer, [Slither](https://github.com/crytic/echidna/), a fuzzer, [Echidna](https://github.com/crytic/echidna/), and a symbolic analysis toolkit, [Manticore](https://github.com/trailofbits/manticore), to review the security of smart contracts and prove correctness.
+This is a 3.5 hour workshop on programmatic smart contract security. It describes how to use a static analyzer, [Slither](https://github.com/crytic/slither/), a fuzzer, [Echidna](https://github.com/crytic/echidna/), and a symbolic analysis toolkit, [Manticore](https://github.com/trailofbits/manticore), to review the security of smart contracts and prove correctness.
 
 Presented at
  * [TruffleCon 2019](https://www.trufflesuite.com/trufflecon2019)
